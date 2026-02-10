@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/nknorth/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nknorth/leetcode_problems/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nknorth/leetcode_problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nknorth/leetcode_problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

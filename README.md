@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0799-champagne-tower](https://github.com/nknorth/leetcode_problems/tree/master/0799-champagne-tower) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/nknorth/leetcode_problems/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/nknorth/leetcode_problems/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->

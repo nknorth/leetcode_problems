@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nknorth/leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nknorth/leetcode_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/nknorth/leetcode_problems/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nknorth/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nknorth/leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nknorth/leetcode_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/nknorth/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nknorth/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nknorth/leetcode_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/nknorth/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/nknorth/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/nknorth/leetcode_problems/tree/master/0196-delete-duplicate-emails) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nknorth/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nknorth/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

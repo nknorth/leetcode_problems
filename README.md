@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nknorth/leetcode_problems/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/nknorth/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nknorth/leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nknorth/leetcode_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nknorth/leetcode_problems/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/nknorth/leetcode_problems/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nknorth/leetcode_problems/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/nknorth/leetcode_problems/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nknorth/leetcode_problems/tree/master/0693-binary-number-with-alternating-bits) |
 ## Greedy

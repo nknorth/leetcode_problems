@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/nknorth/leetcode_problems/tree/master/1143-longest-common-subsequence) |
 | [3713-longest-balanced-substring-i](https://github.com/nknorth/leetcode_problems/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0799-champagne-tower](https://github.com/nknorth/leetcode_problems/tree/master/0799-champagne-tower) |
+| [1143-longest-common-subsequence](https://github.com/nknorth/leetcode_problems/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/nknorth/leetcode_problems/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/nknorth/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/nknorth/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nknorth/leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nknorth/leetcode_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/nknorth/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/nknorth/leetcode_problems/tree/master/0097-interleaving-string) |
+| [0300-longest-increasing-subsequence](https://github.com/nknorth/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0799-champagne-tower](https://github.com/nknorth/leetcode_problems/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/nknorth/leetcode_problems/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nknorth/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/nknorth/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
 | ------- |

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nknorth/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nknorth/leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nknorth/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2678-number-of-senior-citizens](https://github.com/nknorth/leetcode_problems/tree/master/2678-number-of-senior-citizens) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nknorth/leetcode_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/nknorth/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/nknorth/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/nknorth/leetcode_problems/tree/master/0097-interleaving-string) |
 | [1143-longest-common-subsequence](https://github.com/nknorth/leetcode_problems/tree/master/1143-longest-common-subsequence) |
+| [2678-number-of-senior-citizens](https://github.com/nknorth/leetcode_problems/tree/master/2678-number-of-senior-citizens) |
 | [3713-longest-balanced-substring-i](https://github.com/nknorth/leetcode_problems/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |

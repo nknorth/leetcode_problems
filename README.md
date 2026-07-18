@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nknorth/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/nknorth/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nknorth/leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nknorth/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nknorth/leetcode_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/nknorth/leetcode_problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/nknorth/leetcode_problems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nknorth/leetcode_problems/tree/master/0002-add-two-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nknorth/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nknorth/leetcode_problems/tree/master/0207-course-schedule) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nknorth/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

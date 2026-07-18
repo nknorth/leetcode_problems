@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nknorth/leetcode_problems/tree/master/0078-subsets) |
+| [0162-find-peak-element](https://github.com/nknorth/leetcode_problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nknorth/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/nknorth/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nknorth/leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/nknorth/leetcode_problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nknorth/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/nknorth/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 ## Sliding Window

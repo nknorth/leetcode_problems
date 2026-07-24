@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nknorth/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/nknorth/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nknorth/leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/nknorth/leetcode_problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nknorth/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2678-number-of-senior-citizens](https://github.com/nknorth/leetcode_problems/tree/master/2678-number-of-senior-citizens) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nknorth/leetcode_problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
